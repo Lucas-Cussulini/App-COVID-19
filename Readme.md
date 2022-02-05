@@ -14,9 +14,10 @@
 
 
 <div align="center">
-<img width="326"  margin-bottom: 20px alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Home_Screen.png">
+<img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Home_Screen.png">
 </div>
-
+<div>
+</div>
 
 
 - Search - Realize sua busca pelo estado desejado e depois procure a cidade desejada, clique em "pesquisar".
@@ -24,9 +25,10 @@
 
 
 <div align="center">
-<img width="326"  margin-bottom: 20px alt="Tela_Search" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
+<img width="326" alt="Tela_Search" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
 </div>
-
+<div>
+</div>
 
 
 - Results - Será apresentado os resultados da sua pesquisa, e assim finalizando o caminho correto para usar o aplicativo.
@@ -34,9 +36,11 @@
 
 
 <div align="center">
-<img width="326" margin-bottom: 20px alt="Tela_Results" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Result_Screen.png">
+<img width="326" alt="Tela_Results" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Result_Screen.png">
 </div>
 
+<div>
+</div>
 ## Importante
 - É necessário alocar as imagens em uma pasta "img" para que seja realizado corretamente as importações em suas devidas telas.
 - Para desenvolvedores que forem usar o emulador IOS, é necessário fazer as respectivas configurações do emulador e se necessário, do projeto.
