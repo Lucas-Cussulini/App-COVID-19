@@ -1,4 +1,4 @@
-# App-COVID-19
+# Query Covid-19
 
 # Descrição
 - Esse projeto foi criado para a captação de dados reais sobre a COVID-19!
