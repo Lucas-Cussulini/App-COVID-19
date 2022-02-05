@@ -16,7 +16,7 @@
 </div>
 
 - Search - Realize sua busca pelo estado desejado e depois procure a cidade desejada, clique em "pesquisar".
-- 
+
 <div align="center">
 <img width="326" alt="Tela_Search" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
 </div>
