@@ -11,17 +11,27 @@
 
 - Home - Insira seu nome e clique em "vamos lá", é possível também clicar no ícone da vacina e será redirecionado para o site oficial do IBGE com informações sobre as vacinas disponíveis.
 
-<div align="center">
+
+
+- <div align="center">
 <img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Home_Screen.png">
 </div>
 
+
+
 - Search - Realize sua busca pelo estado desejado e depois procure a cidade desejada, clique em "pesquisar".
 
-<div align="center">
+
+
+- <div align="center">
 <img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
 </div>
 
+
+
 - Results - Será apresentado os resultados da sua pesquisa, e assim finalizando o caminho correto para usar o aplicativo.
+
+
 
 <div align="center">
 <img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
