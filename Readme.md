@@ -5,7 +5,7 @@
 
 ## Interfaces 
 
-- O aplicativo consiste em três telas, Home, Search e Results. O objetivo final é fazer que o usuário chegar até a tela de Results para realizar sua pesquisa com sucesso!
+- O aplicativo consiste em três telas, Home, Search e Results. O objetivo final é fazer que o usuário chegue até a tela de Results para realizar sua pesquisa com sucesso!
 
 #### Guia das interfaces
 
