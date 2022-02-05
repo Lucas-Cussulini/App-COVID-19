@@ -13,7 +13,7 @@
 
 
 
-- <div align="center">
+<div align="center">
 <img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Home_Screen.png">
 </div>
 
@@ -23,7 +23,7 @@
 
 
 
-- <div align="center">
+<div align="center">
 <img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
 </div>
 
