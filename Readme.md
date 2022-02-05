@@ -14,7 +14,7 @@
 
 
 <div align="center">
-<img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Home_Screen.png">
+<img width="326"  margin-bottom: 20px alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Home_Screen.png">
 </div>
 
 
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-<img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
+<img width="326"  margin-bottom: 20px alt="Tela_Search" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
 </div>
 
 
@@ -34,7 +34,7 @@
 
 
 <div align="center">
-<img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Search_Screen.png">
+<img width="326" margin-bottom: 20px alt="Tela_Results" src="https://github.com/Lucas-Cussulini/App-COVID-19/blob/main/Prints_README/Result_Screen.png">
 </div>
 
 ## Importante
